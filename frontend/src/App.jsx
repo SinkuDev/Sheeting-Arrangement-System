@@ -9,6 +9,7 @@ function App() {
   return (
     <>
       <h1 className='text-9xl text-center'>heeloo !</h1>
+      <h2>Welcome</h2>
       
     </>
   )
